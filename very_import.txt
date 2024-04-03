@@ -1,0 +1,1 @@
+Main file mai thread create ker kai call ker lena 
